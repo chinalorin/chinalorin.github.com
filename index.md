@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to chinalorin'web
 
 You can use the [editor on GitHub](https://github.com/chinalorin/chinalorin.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
